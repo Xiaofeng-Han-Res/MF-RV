@@ -1,7 +1,7 @@
 # MF-RV
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ![](https://img.shields.io/github/last-commit/Xiaofeng-Han-Res/MF-RV?color=green) 
-![](https://img.shields.io/badge/PRs-Welcome-%23FF4500)
+[![](https://img.shields.io/badge/PRs-Welcome-%23FF4500)](https://github.com/Xiaofeng-Han-Res/MF-RV)
 ![](https://img.shields.io/github/stars/Xiaofeng-Han-Res/MF-RV?color=yellow)
 ![](https://img.shields.io/github/forks/Xiaofeng-Han-Res/MF-RV?color=lightblue) 
 
