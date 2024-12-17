@@ -34,6 +34,13 @@ This is a compilation on "Multimodal Fusion for Robot Vision," including state-o
 * Rt-1: Robotics transformer for real-world control at scale (arXiv, 2022) [[paper]](https://arxiv.org/pdf/2212.06817)
 * Rt-2: Vision-language-action models transfer web knowledge to robotic control (arXiv, 2023) [[paper]](https://arxiv.org/pdf/2307.15818)
 * Open x-embodiment: Robotic learning datasets and rt-x models (arXiv, 2023) [[paper]](https://arxiv.org/pdf/2310.08864)
-* Rt-h: Action hierarchies using language (arXiv, 2024) [[paper]](https://arxiv.org/pdf/2403.01823）
-* Autort: Embodied foundation models for large scale orchestration of robotic agents (arXiv, 2024) [[paper]](https://arxiv.org/pdf/2401.12963）
-* 
+* Rt-h: Action hierarchies using language (arXiv, 2024) [[paper]](https://arxiv.org/pdf/2403.01823)
+* Autort: Embodied foundation models for large scale orchestration of robotic agents (arXiv, 2024) [[paper]](https://arxiv.org/pdf/2401.12963)
+* Gr-2: A generative video-language-action model with web-scale knowledge for robot manipulation (arXiv, 2024) [[paper]](https://arxiv.org/pdf/2410.06158)
+* Voxposer: Composable 3d value maps for robotic manipulation with language models (arXiv, 2023) [[paper]](https://arxiv.org/pdf/2307.05973)
+* Rdt-1b: a diffusion foundation model for bimanual manipulation (arXiv, 2024) [[paper]](https://arxiv.org/pdf/2410.07864)
+* Rekep: Spatio-temporal reasoning of relational keypoint constraints for robotic manipulation (arXiv, 2024) [[paper]](https://arxiv.org/pdf/2409.01652)
+* Copa: General robotic manipulation through spatial constraints of parts with foundation models (arXiv, 2024) [[paper]](https://arxiv.org/pdf/2403.08248)
+* OpenVLA: An Open-Source Vision-Language-Action Model (arXiv, 2024) [[paper]](https://arxiv.org/pdf/2406.09246)
+* Palm-e: An embodied multimodal language model (arXiv, 2023) [[paper]](https://arxiv.org/pdf/2303.03378)
+* Π0: A Vision-Language-Action Flow Model for General Robot Control (arXiv, 2024) [[paper]](https://arxiv.org/pdf/2410.24164?)
