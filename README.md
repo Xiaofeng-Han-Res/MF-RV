@@ -22,6 +22,7 @@ This is a compilation on "Multimodal Fusion for Robot Vision," including state-o
   - [Table of Contents](#table-of-contents)
   - [Related Surveys](#related-surveys)
   - [DataSets](#datasets)
+  - [Embodied Large Language Models](embodied-large-language-models)
 
 ## Related Surveys
 
