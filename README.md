@@ -32,31 +32,32 @@ This is a compilation on "Multimodal Fusion for Robot Vision," including state-o
 <table>
   <thead>
     <tr>
-      <th>Title</th>
+      <th>Datasets</th>
+      <th>Scene</th>
+      <th>Multimodal Data</th>
       <th>Venue</th>
-      <th>Date</th>
-      <th>Code</th>
+      <th>Year</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/shkf_eccv2012.pdf">NYUDv2</a></td>
       <td>Indoor</td>
-      <td>RGB/DEPTH</td>
+      <td>RGB/Depth</td>
       <td>ECCV</td>
       <td>2012</td>
     </tr>
     <tr>
       <td><a href="https://openaccess.thecvf.com/content_cvpr_2017/papers/Dai_ScanNet_Richly-Annotated_3D_CVPR_2017_paper.pdf">ScanNet</a></td>
       <td>Indoor</td>
-      <td>RGB/DEPTH</td>
+      <td>RGB/Depth</td>
       <td>CVPR</td>
       <td>2017</td>
     </tr>
     <tr>
       <td><a href="https://openaccess.thecvf.com/content_cvpr_2016/papers/Cordts_The_Cityscapes_Dataset_CVPR_2016_paper.pdf">Cityscapes</a></td>
       <td>Urban street</td>
-      <td>RGB/DEPTH</td>
+      <td>RGB/Depth</td>
       <td>CVPR</td>
       <td>2016</td>
     </tr>
