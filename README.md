@@ -60,6 +60,20 @@ This is a compilation on "Multimodal Fusion for Robot Vision," including state-o
       <td>CVPR</td>
       <td>2016</td>
     </tr>
+    <tr>
+      <td><a href="https://openaccess.thecvf.com/content_ICCV_2019/papers/Behley_SemanticKITTI_A_Dataset_for_Semantic_Scene_Understanding_of_LiDAR_Sequences_ICCV_2019_paper.pdf">Semantickitti</a></td>
+      <td>Urban street</td>
+      <td>RGB/Lidar</td>
+      <td>ICCV</td>
+      <td>2019</td>
+    </tr>
+    <tr>
+      <td><a href="https://arxiv.org/pdf/2109.08238">Matterport3D</a></td>
+      <td>Indoor</td>
+      <td>RGB/Depth</td>
+      <td>arxiv</td>
+      <td>2019</td>
+    </tr>
   </tbody>
 </table>
 
