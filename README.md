@@ -102,6 +102,13 @@ This is a compilation on "Multimodal Fusion for Robot Vision," including state-o
       <td>CVPR</td>
       <td>2024</td>
     </tr>
+     <tr>
+      <td><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Azuma_ScanQA_3D_Question_Answering_for_Spatial_Scene_Understanding_CVPR_2022_paper.pdf">ScanQA</a></td>
+      <td>Indoor</td>
+      <td>RGB/Text</td>
+      <td>CVPR</td>
+      <td>2022</td>
+    </tr>
   </tbody>
 </table>
 
