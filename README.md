@@ -41,39 +41,25 @@ This is a compilation on "Multimodal Fusion for Robot Vision," including state-o
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/shkf_eccv2012.pdf">NYUDv2</a></td>
-      <td style="text-align: center;">Indoor</td>
-      <td>RGB/Depth</td>
-      <td>ECCV</td>
-      <td>2012</td>
+      <td><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_360x_A_Panoptic_Multi-modal_Scene_Understanding_Dataset_CVPR_2024_paper.pdf">360+x</a></td>
+      <td>Indoor/Outdoor</td>
+      <td>Video/Audio</td>
+      <td>CVPR</td>
+      <td>2024</td>
+    </tr>
+     <tr>
+      <td><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Azuma_ScanQA_3D_Question_Answering_for_Spatial_Scene_Understanding_CVPR_2022_paper.pdf">ScanQA</a></td>
+      <td>Indoor</td>
+      <td>RGB/Text</td>
+      <td>CVPR</td>
+      <td>2022</td>
     </tr>
     <tr>
-      <td><a href="https://openaccess.thecvf.com/content_cvpr_2017/papers/Dai_ScanNet_Richly-Annotated_3D_CVPR_2017_paper.pdf">ScanNet</a></td>
+      <td><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Roberts_Hypersim_A_Photorealistic_Synthetic_Dataset_for_Holistic_Indoor_Scene_Understanding_ICCV_2021_paper.pdf">Hypersim</a></td>
       <td>Indoor</td>
       <td>RGB/Depth</td>
-      <td>CVPR</td>
-      <td>2017</td>
-    </tr>
-    <tr>
-      <td><a href="https://openaccess.thecvf.com/content_cvpr_2016/papers/Cordts_The_Cityscapes_Dataset_CVPR_2016_paper.pdf">Cityscapes</a></td>
-      <td>Urban street</td>
-      <td>RGB/Depth</td>
-      <td>CVPR</td>
-      <td>2016</td>
-    </tr>
-    <tr>
-      <td><a href="https://openaccess.thecvf.com/content_ICCV_2019/papers/Behley_SemanticKITTI_A_Dataset_for_Semantic_Scene_Understanding_of_LiDAR_Sequences_ICCV_2019_paper.pdf">Semantickitti</a></td>
-      <td>Urban street</td>
-      <td>RGB/Lidar</td>
       <td>ICCV</td>
-      <td>2019</td>
-    </tr>
-    <tr>
-      <td><a href="https://arxiv.org/pdf/2109.08238">Matterport3D</a></td>
-      <td>Indoor</td>
-      <td>RGB/Depth</td>
-      <td>arxiv</td>
-      <td>2019</td>
+      <td>2021</td>
     </tr>
     <tr>
       <td><a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Caesar_nuScenes_A_Multimodal_Dataset_for_Autonomous_Driving_CVPR_2020_paper.pdf">NuScenes</a></td>
@@ -90,30 +76,44 @@ This is a compilation on "Multimodal Fusion for Robot Vision," including state-o
       <td>2020</td>
     </tr>
     <tr>
-      <td><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Roberts_Hypersim_A_Photorealistic_Synthetic_Dataset_for_Holistic_Indoor_Scene_Understanding_ICCV_2021_paper.pdf">Hypersim</a></td>
-      <td>Indoor</td>
-      <td>RGB/Depth</td>
+      <td><a href="https://openaccess.thecvf.com/content_ICCV_2019/papers/Behley_SemanticKITTI_A_Dataset_for_Semantic_Scene_Understanding_of_LiDAR_Sequences_ICCV_2019_paper.pdf">Semantickitti</a></td>
+      <td>Urban street</td>
+      <td>RGB/Lidar</td>
       <td>ICCV</td>
-      <td>2021</td>
+      <td>2019</td>
     </tr>
     <tr>
-      <td><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_360x_A_Panoptic_Multi-modal_Scene_Understanding_Dataset_CVPR_2024_paper.pdf">360+x</a></td>
-      <td>Indoor/Outdoor</td>
-      <td>Video/Audio</td>
-      <td>CVPR</td>
-      <td>2024</td>
-    </tr>
-     <tr>
-      <td><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Azuma_ScanQA_3D_Question_Answering_for_Spatial_Scene_Understanding_CVPR_2022_paper.pdf">ScanQA</a></td>
+      <td><a href="https://arxiv.org/pdf/2109.08238">Matterport3D</a></td>
       <td>Indoor</td>
-      <td>RGB/Text</td>
+      <td>RGB/Depth</td>
+      <td>arxiv</td>
+      <td>2019</td>
+    </tr>
+    <tr>
+      <td><a href="https://openaccess.thecvf.com/content_cvpr_2017/papers/Dai_ScanNet_Richly-Annotated_3D_CVPR_2017_paper.pdf">ScanNet</a></td>
+      <td>Indoor</td>
+      <td>RGB/Depth</td>
       <td>CVPR</td>
-      <td>2022</td>
+      <td>2017</td>
+    </tr>
+    <tr>
+      <td><a href="https://openaccess.thecvf.com/content_cvpr_2016/papers/Cordts_The_Cityscapes_Dataset_CVPR_2016_paper.pdf">Cityscapes</a></td>
+      <td>Urban street</td>
+      <td>RGB/Depth</td>
+      <td>CVPR</td>
+      <td>2016</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/shkf_eccv2012.pdf">NYUDv2</a></td>
+      <td style="text-align: center;">Indoor</td>
+      <td>RGB/Depth</td>
+      <td>ECCV</td>
+      <td>2012</td>
     </tr>
   </tbody>
 </table>
 
-### Dataset
+### Robot Manipulation Dataset
 * Objectfolder 2.0: A multisensory object dataset for sim2real transfer (CVPR, 2022) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Gao_ObjectFolder_2.0_A_Multisensory_Object_Dataset_for_Sim2Real_Transfer_CVPR_2022_paper.pdf)
 * Touch and Go: Learning from Human-Collected Vision and Touch Supplementary Material (NuerIPS, 2022) [[paper]](https://arxiv.org/pdf/2211.12498)
 * Connecting Touch and Vision via Cross-Modal Prediction (CVPR, 2019) [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Connecting_Touch_and_Vision_via_Cross-Modal_Prediction_CVPR_2019_paper.pdf)
