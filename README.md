@@ -40,42 +40,25 @@ This is a compilation on "Multimodal Fusion for Robot Vision," including state-o
   </thead>
   <tbody>
     <tr>
-      <td><a href="#https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/shkf_eccv2012.pdf">NYUDv2</a></td>
-      <td>1449</td>
+      <td><a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/shkf_eccv2012.pdf">NYUDv2</a></td>
       <td>Indoor</td>
       <td>RGB/DEPTH</td>
       <td>ECCV</td>
       <td>2012</td>
     </tr>
     <tr>
-      <td><a href="#">LGrasp6D: Language-Driven 6-DoF Grasp Detection Using Negative Prompt Guidance</a></td>
-      <td>ECCV</td>
-      <td>2024-07-18</td>
-      <td><a href="#">GitHub</a></td>
+      <td><a href="https://openaccess.thecvf.com/content_cvpr_2017/papers/Dai_ScanNet_Richly-Annotated_3D_CVPR_2017_paper.pdf">ScanNet</a></td>
+      <td>Indoor</td>
+      <td>RGB/DEPTH</td>
+      <td>CVPR</td>
+      <td>2017</td>
     </tr>
     <tr>
-      <td><a href="#">Reasoning Grasping: Reasoning Grasping via Multimodal Large Language Model</a></td>
-      <td>CoRL</td>
-      <td>2024-02-09</td>
-      <td><a href="#">Project</a></td>
-    </tr>
-    <tr>
-      <td><a href="#">ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter</a></td>
-      <td>CoRL</td>
-      <td>2024-07-16</td>
-      <td><a href="#">GitHub</a></td>
-    </tr>
-    <tr>
-      <td><a href="#">OWG: Towards Open-World Grasping with Large Vision-Language Models</a></td>
-      <td>CoRL</td>
-      <td>2024-06-26</td>
-      <td><a href="#">Project</a></td>
-    </tr>
-    <tr>
-      <td><a href="#">RT-Grasp: Reasoning Tuning Robotic Grasping via Multi-modal Large Language Model</a></td>
-      <td>IROS</td>
-      <td>2024-11-07</td>
-      <td><a href="#">Project</a></td>
+      <td><a href="https://openaccess.thecvf.com/content_cvpr_2016/papers/Cordts_The_Cityscapes_Dataset_CVPR_2016_paper.pdf">Cityscapes</a></td>
+      <td>Urban street</td>
+      <td>RGB/DEPTH</td>
+      <td>CVPR</td>
+      <td>2016</td>
     </tr>
   </tbody>
 </table>
