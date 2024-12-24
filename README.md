@@ -88,6 +88,13 @@ This is a compilation on "Multimodal Fusion for Robot Vision," including state-o
       <td>CVPR</td>
       <td>2020</td>
     </tr>
+    <tr>
+      <td><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Roberts_Hypersim_A_Photorealistic_Synthetic_Dataset_for_Holistic_Indoor_Scene_Understanding_ICCV_2021_paper.pdf">Hypersim</a></td>
+      <td>Indoor</td>
+      <td>RGB/Depth</td>
+      <td>ICCV</td>
+      <td>2021</td>
+    </tr>
   </tbody>
 </table>
 
