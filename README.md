@@ -83,11 +83,11 @@ This is a compilation on "Multimodal Fusion for Robot Vision," including state-o
       <td>2019</td>
     </tr>
     <tr>
-      <td><a href="https://arxiv.org/pdf/2109.08238">Matterport3D</a></td>
+      <td><a href="https://arxiv.org/pdf/1709.06158">Matterport3D</a></td>
       <td>Indoor</td>
       <td>RGB/Depth</td>
       <td>arxiv</td>
-      <td>2019</td>
+      <td>2017</td>
     </tr>
     <tr>
       <td><a href="https://openaccess.thecvf.com/content_cvpr_2017/papers/Dai_ScanNet_Richly-Annotated_3D_CVPR_2017_paper.pdf">ScanNet</a></td>
