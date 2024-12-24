@@ -28,7 +28,7 @@ This is a compilation on "Multimodal Fusion for Robot Vision," including state-o
 
 ## :bar_chart:Awesome Benchmarks
 
-### Grasp Dataset
+### Scene Understanding Datasets
 <table>
   <thead>
     <tr>
@@ -40,10 +40,12 @@ This is a compilation on "Multimodal Fusion for Robot Vision," including state-o
   </thead>
   <tbody>
     <tr>
-      <td><a href="#">RTAGrasp: Learning Task-Oriented Grasping from Human Videos via Retrieval, Transfer, and Alignment</a></td>
-      <td>arXiv</td>
-      <td>2024-09-24</td>
-      <td><a href="#">Project</a></td>
+      <td><a href="#https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/shkf_eccv2012.pdf">NYUDv2</a></td>
+      <td>1449</td>
+      <td>Indoor</td>
+      <td>RGB/DEPTH</td>
+      <td>ECCV</td>
+      <td>2012</td>
     </tr>
     <tr>
       <td><a href="#">LGrasp6D: Language-Driven 6-DoF Grasp Detection Using Negative Prompt Guidance</a></td>
