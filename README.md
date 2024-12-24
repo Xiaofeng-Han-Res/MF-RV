@@ -42,7 +42,7 @@ This is a compilation on "Multimodal Fusion for Robot Vision," including state-o
   <tbody>
     <tr>
       <td><a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/shkf_eccv2012.pdf">NYUDv2</a></td>
-      <td>Indoor</td>
+      <td style="text-align: center;">Indoor</td>
       <td>RGB/Depth</td>
       <td>ECCV</td>
       <td>2012</td>
