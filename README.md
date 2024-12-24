@@ -123,6 +123,17 @@ This is a compilation on "Multimodal Fusion for Robot Vision," including state-o
 * Touch and Go: Learning from Human-Collected Vision and Touch Supplementary Material (NuerIPS, 2022) [[paper]](https://arxiv.org/pdf/2211.12498)
 * Connecting Touch and Vision via Cross-Modal Prediction (CVPR, 2019) [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Connecting_Touch_and_Vision_via_Cross-Modal_Prediction_CVPR_2019_paper.pdf)
 * Rt-1: Robotics transformer for real-world control at scale (arXiv, 2022) [[paper]](https://arxiv.org/pdf/2212.06817)
+  
+### Manipulation Benchmarks
+  | **Title** | **Venue** | **Date** |
+|----------------------------|-------------------|------------|
+| **Manipulation in Home Environment** | | |
+| [HomeRobot: Open-Vocabulary Mobile Manipulation](https://arxiv.org/abs/2306.11565) | CoRL 2023 | 2023-06-20 |
+| [ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks](https://arxiv.org/abs/1912.01734) | CVPR 2020 | 2019-12-03 |
+| **Manipulation in On-Table Environment** | | |
+| [OBSBench: Point Cloud Matters: Rethinking the Impact of Different Observation Spaces on Robot Learning](https://arxiv.org/abs/2402.02500) | NeurIPS 2024 | 2024-02-04 |
+| [LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning](https://arxiv.org/abs/2306.03310) | NeurIPS 2023 | 2023-06-05 |
+
 
 ## Embodied Large Language Models
 * Rt-2: Vision-language-action models transfer web knowledge to robotic control (arXiv, 2023) [[paper]](https://arxiv.org/pdf/2307.15818)
