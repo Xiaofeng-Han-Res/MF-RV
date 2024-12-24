@@ -27,6 +27,58 @@ This is a compilation on "Multimodal Fusion for Robot Vision," including state-o
 ## Related Surveys
 
 ## :bar_chart:Awesome Benchmarks
+
+### Grasp Dataset
+<table>
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Venue</th>
+      <th>Date</th>
+      <th>Code</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="#">RTAGrasp: Learning Task-Oriented Grasping from Human Videos via Retrieval, Transfer, and Alignment</a></td>
+      <td>arXiv</td>
+      <td>2024-09-24</td>
+      <td><a href="#">Project</a></td>
+    </tr>
+    <tr>
+      <td><a href="#">LGrasp6D: Language-Driven 6-DoF Grasp Detection Using Negative Prompt Guidance</a></td>
+      <td>ECCV</td>
+      <td>2024-07-18</td>
+      <td><a href="#">GitHub</a></td>
+    </tr>
+    <tr>
+      <td><a href="#">Reasoning Grasping: Reasoning Grasping via Multimodal Large Language Model</a></td>
+      <td>CoRL</td>
+      <td>2024-02-09</td>
+      <td><a href="#">Project</a></td>
+    </tr>
+    <tr>
+      <td><a href="#">ThinkGrasp: A Vision-Language System for Strategic Part Grasping in Clutter</a></td>
+      <td>CoRL</td>
+      <td>2024-07-16</td>
+      <td><a href="#">GitHub</a></td>
+    </tr>
+    <tr>
+      <td><a href="#">OWG: Towards Open-World Grasping with Large Vision-Language Models</a></td>
+      <td>CoRL</td>
+      <td>2024-06-26</td>
+      <td><a href="#">Project</a></td>
+    </tr>
+    <tr>
+      <td><a href="#">RT-Grasp: Reasoning Tuning Robotic Grasping via Multi-modal Large Language Model</a></td>
+      <td>IROS</td>
+      <td>2024-11-07</td>
+      <td><a href="#">Project</a></td>
+    </tr>
+  </tbody>
+</table>
+
+### Dataset
 * Objectfolder 2.0: A multisensory object dataset for sim2real transfer (CVPR, 2022) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Gao_ObjectFolder_2.0_A_Multisensory_Object_Dataset_for_Sim2Real_Transfer_CVPR_2022_paper.pdf)
 * Touch and Go: Learning from Human-Collected Vision and Touch Supplementary Material (NuerIPS, 2022) [[paper]](https://arxiv.org/pdf/2211.12498)
 * Connecting Touch and Vision via Cross-Modal Prediction (CVPR, 2019) [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Connecting_Touch_and_Vision_via_Cross-Modal_Prediction_CVPR_2019_paper.pdf)
