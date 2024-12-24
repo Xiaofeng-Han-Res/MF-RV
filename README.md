@@ -74,6 +74,20 @@ This is a compilation on "Multimodal Fusion for Robot Vision," including state-o
       <td>arxiv</td>
       <td>2019</td>
     </tr>
+    <tr>
+      <td><a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Caesar_nuScenes_A_Multimodal_Dataset_for_Autonomous_Driving_CVPR_2020_paper.pdf">NuScenes</a></td>
+      <td>Urban street</td>
+      <td>RGB/Lidar/Radar</td>
+      <td>CVPR</td>
+      <td>2020</td>
+    </tr>
+    <tr>
+      <td><a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Sun_Scalability_in_Perception_for_Autonomous_Driving_Waymo_Open_Dataset_CVPR_2020_paper.pdf">Waymo</a></td>
+      <td>Outdoor</td>
+      <td>RGB/Lidar</td>
+      <td>CVPR</td>
+      <td>2020</td>
+    </tr>
   </tbody>
 </table>
 
