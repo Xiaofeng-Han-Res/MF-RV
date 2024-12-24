@@ -95,6 +95,13 @@ This is a compilation on "Multimodal Fusion for Robot Vision," including state-o
       <td>ICCV</td>
       <td>2021</td>
     </tr>
+    <tr>
+      <td><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_360x_A_Panoptic_Multi-modal_Scene_Understanding_Dataset_CVPR_2024_paper.pdf">360+x</a></td>
+      <td>Indoor/Outdoor</td>
+      <td>Video/Audio</td>
+      <td>CVPR</td>
+      <td>2024</td>
+    </tr>
   </tbody>
 </table>
 
