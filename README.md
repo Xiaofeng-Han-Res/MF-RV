@@ -114,17 +114,18 @@ This is a compilation on "Multimodal Fusion for Robot Vision," including state-o
 </table>
 
 ### Robot Manipulation Dataset
-| Datasets              | Core Modalities             | Data Scale            | Innovations and Strengths                          | Application Scenarios                  |
-|-----------------------|-----------------------------|-----------------------|--------------------------------------------------|----------------------------------------|
-| DROID                | RGB, Depth, Language        | 76,000 trajectories   | Multi-view cameras and language annotations, multi-task and multi-scene adaptation | Multi-task learning, multi-scene generalization |
-| R2SGrasp             | Depth, Grasping             | 64,000 RGB-D images   | "Real-to-Sim" framework, eliminates noise gap between simulation and reality       | Accurate grasp detection, sim-to-real transfer  |
-| RT-1                 | RGB, Language               | 130,000 trajectories  | Transformer architecture, real-time multi-task control                             | Efficient generalization, suitable for complex tasks |
-| Touch and Go         | Vision, Tactile             | Not specified         | Self-supervised learning, links visual and tactile signals                         | Cross-modal perception, tactile signal prediction |
-| VisGel               | GelSight Tactile, Vision    | 12,000 tactile interactions | Cross-modal bidirectional generation (vision-to-touch, touch-to-vision)            | Cross-modal learning, tactile-enhanced vision   |
-| ObjectFolder 2.0     | Vision, Audio, Tactile      | 1,000 virtual object models | Implicit neural representation, efficient multimodal rendering                     | Multimodal learning, virtual-to-reality transfer |
-| Grasp-Anything-6D    | Point Cloud, Language       | 1M point cloud scenes | Negative prompt strategy, improves 6-DoF grasp control with language guidance     | Language-driven grasping in complex multi-object scenarios |
-| Grasp-Anything++     | Point Cloud, Language       | 1M samples, 10M grasping instructions | Fine-grained grasping annotations, supports localized grasping                     | Fine-grained grasping, zero-shot tasks          |
-| Open X-Embodiment    | RGB, Depth, Language, Multi-robot Forms | Aggregated data from multiple institutions | Task-agnostic data collection, unified data support for multi-robot systems        | Generalization and transfer learning across robot systems |
+| Datasets              | Core Modalities             | Data Scale            | Main Application                  |
+|-----------------------|-----------------------------|-----------------------|------------------------------------|
+| DROID                | RGB, Depth, Language        | 76,000 trajectories   | Multi-task scene adaptation        |
+| R2SGrasp             | Depth, Grasping             | 64,000 RGB-D images   | Grasp detection                   |
+| RT-1                 | RGB, Language               | 130,000 trajectories  | Real-time task control            |
+| Touch and Go         | Vision, Tactile             | Not specified         | Cross-modal perception            |
+| VisGel               | GelSight Tactile, Vision    | 12,000 tactile interactions | Tactile-enhanced manipulation   |
+| ObjectFolder 2.0     | Vision, Audio, Tactile      | 1,000 virtual object models | Virtual-to-reality transfer    |
+| Grasp-Anything-6D    | Point Cloud, Language       | 1M point cloud scenes | Language-driven grasping          |
+| Grasp-Anything++     | Point Cloud, Language       | 1M samples, 10M instructions | Fine-grained manipulation     |
+| Open X-Embodiment    | RGB, Depth, Language, Multi-robot Forms | Aggregated data from multiple institutions | Cross-robot system generalization |
+
 * Grasp-Anything++: Language-driven Grasp Detection(CVPR, 2024) [[paper]](https://arxiv.org/abs/2406.09489)
 * Grasp-Anything-6D: Language-Driven 6-DoF Grasp Detection Using Negative Prompt Guidance(ECCV, 2024) [[paper]](https://arxiv.org/abs/2407.13842)
 * Real-to-Sim Grasp: Rethinking the Gap between Simulation and Real World in Grasp Detection(CORL, 2024) [[paper]](https://arxiv.org/abs/2410.06521)
