@@ -113,7 +113,7 @@ This is a compilation on "Multimodal Fusion for Robot Vision," including state-o
   </tbody>
 </table>
 
-### Robot Manipulation Dataset
+### Robot Manipulation Datasets
 | Datasets              | Core Modalities                 | Data Scale            | Main Application                  |
 |-----------------------|----------------------------------|-----------------------|------------------------------------|
 | DROID                | RGB, Depth, Text                | 76,000 trajectories   | Multi-task scene adaptation        |
@@ -136,6 +136,8 @@ This is a compilation on "Multimodal Fusion for Robot Vision," including state-o
 * Touch and Go: Learning from Human-Collected Vision and Touch Supplementary Material (NuerIPS, 2022) [[paper]](https://arxiv.org/pdf/2211.12498)
 * Connecting Touch and Vision via Cross-Modal Prediction (CVPR, 2019) [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Connecting_Touch_and_Vision_via_Cross-Modal_Prediction_CVPR_2019_paper.pdf)
 * Rt-1: Robotics transformer for real-world control at scale (arXiv, 2022) [[paper]](https://arxiv.org/pdf/2212.06817)
+
+ ### Embodied Navigation Datasets
   
 ### Manipulation Benchmarks
   | **Title** | **Venue** | **Date** |
