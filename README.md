@@ -114,17 +114,18 @@ This is a compilation on "Multimodal Fusion for Robot Vision," including state-o
 </table>
 
 ### Robot Manipulation Dataset
-| Datasets              | Core Modalities             | Data Scale            | Main Application                  |
-|-----------------------|-----------------------------|-----------------------|------------------------------------|
-| DROID                | RGB, Depth, Language        | 76,000 trajectories   | Multi-task scene adaptation        |
-| R2SGrasp             | Depth, Grasping             | 64,000 RGB-D images   | Grasp detection                   |
-| RT-1                 | RGB, Language               | 130,000 trajectories  | Real-time task control            |
-| Touch and Go         | Vision, Tactile             | Not specified         | Cross-modal perception            |
-| VisGel               | GelSight Tactile, Vision    | 12,000 tactile interactions | Tactile-enhanced manipulation   |
-| ObjectFolder 2.0     | Vision, Audio, Tactile      | 1,000 virtual object models | Virtual-to-reality transfer    |
-| Grasp-Anything-6D    | Point Cloud, Language       | 1M point cloud scenes | Language-driven grasping          |
-| Grasp-Anything++     | Point Cloud, Language       | 1M samples, 10M instructions | Fine-grained manipulation     |
-| Open X-Embodiment    | RGB, Depth, Language, Multi-robot Forms | Aggregated data from multiple institutions | Cross-robot system generalization |
+| Datasets              | Core Modalities                 | Data Scale            | Main Application                  |
+|-----------------------|----------------------------------|-----------------------|------------------------------------|
+| DROID                | RGB, Depth, Text                | 76,000 trajectories   | Multi-task scene adaptation        |
+| R2SGrasp             | RGB-D, Point Cloud              | 64,000 RGB-D images   | Grasp detection                   |
+| RT-1                 | RGB, Text                       | 130,000 trajectories  | Real-time task control            |
+| Touch and Go         | RGB, Tactile                    | 3,971 virtual object models, 13,900 tactile interactions       | Cross-modal perception            |
+| VisGel               | GelSight Tactile, RGB           | 12,000 tactile interactions | Tactile-enhanced manipulation   |
+| ObjectFolder 2.0     | RGB, Audio, Tactile             | 1,000 virtual object models | Virtual-to-reality transfer    |
+| Grasp-Anything-6D    | Point Cloud, Text               | 1M point cloud scenes | Language-driven grasping          |
+| Grasp-Anything++     | Point Cloud, Text               | 1M samples, 10M instructions | Fine-grained manipulation     |
+| Open X-Embodiment    | RGB, Depth, Text, Multi-robot Data | Aggregated data from multiple institutions | Cross-robot system generalization |
+
 
 * Grasp-Anything++: Language-driven Grasp Detection(CVPR, 2024) [[paper]](https://arxiv.org/abs/2406.09489)
 * Grasp-Anything-6D: Language-Driven 6-DoF Grasp Detection Using Negative Prompt Guidance(ECCV, 2024) [[paper]](https://arxiv.org/abs/2407.13842)
