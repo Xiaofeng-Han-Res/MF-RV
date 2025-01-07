@@ -138,6 +138,15 @@ This is a compilation on "Multimodal Fusion for Robot Vision," including state-o
 * Rt-1: Robotics transformer for real-world control at scale (arXiv, 2022) [[paper]](https://arxiv.org/pdf/2212.06817)
 
  ### Embodied Navigation Datasets
+ | **Dataset**       | **Modalities**             | **Unique Feature**                  |
+|--------------------|----------------------------|--------------------------------------|
+| **Matterport3D**   | RGB-D, Semantic Annotations | Foundational dataset for navigation |
+| **R2R**            | RGB-D, Natural Language    | Vision-and-Language Navigation      |
+| **REVERIE**        | RGB-D, Object Annotations  | Combines object grounding tasks     |
+| **CVDN**           | RGB-D, Dialog              | Introduces multi-turn interactions  |
+| **SOON**           | RGB-D, Natural Language    | Coarse-to-fine target localization  |
+| **R3ED**           | Point Cloud, Object Labels | Real-world sensor-based data        |
+
   
 ### Manipulation Benchmarks
   | **Title** | **Venue** | **Date** |
