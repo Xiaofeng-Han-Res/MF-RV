@@ -159,6 +159,18 @@ This is a compilation on "Multimodal Fusion for Robot Vision," including state-o
 | [LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning](https://arxiv.org/abs/2306.03310) | NeurIPS 2023 | 2023-06-05 |
 
 
+| **Benchmark**   | **Simulator**           | **# Tasks**  | **Real-World Reproducibility** | **Applicable Algorithms**                 | **Key Evaluation Metrics**                                      |
+|---------------|-----------------------|------------|-------------------------|---------------------------------|----------------------------------------------------|
+| **RLBench**   | PyRep (CoppeliaSim)    | 100+       | ✗                        | RL, IL, Traditional Control     | Task Success Rate, Trajectory Efficiency, Task Completion Time |
+| **GemBench**  | Isaac Sim, MuJoCo      | 44         | ✗                        | RL, IL, VLM-based               | Zero-shot Task Success, Object Recognition, Generalization |
+| **VLMbench**  | RLBench                | 8          | ✗                        | RL, VLM-based                   | Task Execution Success, Compositional Generalization |
+| **KitchenShift** | Isaac Sim           | 7          | ✗                        | IL, RL                          | Performance Under Domain Shifts, Task Success Rate |
+| **CALVIN**    | PyBullet               | 34         | ✗                        | RL, IL                          | Long-Horizon Task Success, Multi-Task Adaptability |
+| **COLOSSEUM** | RLBench                | 20         | ✓                        | RL, IL                          | Robustness to Perturbations, Multi-Task Learning Performance |
+| **GenSim2**   | MuJoCo, Isaac Sim      | 100+       | ✓                        | RL, IL, Traditional Control     | Sim-to-Real Transfer Success, Scalability, Adaptability |
+| **VIMA**      | MuJoCo, CoppeliaSim    | 17         | ✗                        | RL, VLM-based                   | Zero-shot Success, Multi-Modal Task Performance |
+
+
 ## Embodied Large Language Models
 
 * Rt-2: Vision-language-action models transfer web knowledge to robotic control (arXiv, 2023) [[paper]](https://arxiv.org/pdf/2307.15818)
